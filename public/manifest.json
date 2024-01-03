@@ -1,0 +1,10 @@
+{
+  "short_name": "BookMyShow",
+  "name": "Ticket Booking Movies, Movie Tickets, Big Cinema, Ags, Inox, Movie Online Booking, Concert, Play, Event, Comedy Show Tickets, IPL, PVR Cinemas, T20 Tickets, Online Movie Ticket, Movie Trailers, Reviews",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
